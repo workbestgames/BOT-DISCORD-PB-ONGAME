@@ -2,7 +2,7 @@
   "name": "bot_discord_pb_ongame",
   "version": "1.0.0",
   "description": "Bot Discord para obter dados do site pb.ongame.net como rank arsenais e etc",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "dev"
   },
@@ -35,5 +35,15 @@
   "bugs": {
     "url": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME/issues"
   },
-  "homepage": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME#readme"
+  "homepage": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "firebase": "^6.3.3"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^1.19.1",
+    "request": "^2.88.0"
+  }
 }
