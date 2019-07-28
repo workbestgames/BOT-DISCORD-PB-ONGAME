@@ -1,40 +1,39 @@
 {
-    "name": "bot_discord_pb_ongame",
-    "version": "1.0.0",
-    "description": "Bot Discord para obter dados do site pb.ongame.net como rank arsenais e etc",
-    "main": "index.js",
-    "scripts": {
-      "test": "dev"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME.git"
-    },
-    "keywords": [
-      "PB",
-      "POINTBLANK",
-      "ONGAME",
-      "Point",
-      "blank",
-      "WBG",
-      "wbg",
-      "Workbestgames",
-      "WORKBESTGAMES",
-      "Work",
-      "Best",
-      "Games",
-      "work",
-      "best",
-      "games",
-      "ongame",
-      "pointblank",
-      "Zappeto"
-    ],
-    "author": "RafaelTuber",
-    "license": "GNU",
-    "bugs": {
-      "url": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME/issues"
-    },
-    "homepage": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME#readme"
-  }
-  
+  "name": "bot_discord_pb_ongame",
+  "version": "1.0.0",
+  "description": "Bot Discord para obter dados do site pb.ongame.net como rank arsenais e etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME.git"
+  },
+  "keywords": [
+    "PB",
+    "POINTBLANK",
+    "ONGAME",
+    "Point",
+    "blank",
+    "WBG",
+    "wbg",
+    "Workbestgames",
+    "WORKBESTGAMES",
+    "Work",
+    "Best",
+    "Games",
+    "work",
+    "best",
+    "games",
+    "ongame",
+    "pointblank",
+    "Zappeto"
+  ],
+  "author": "RafaelTuber",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME/issues"
+  },
+  "homepage": "https://github.com/workbestgames/BOT-DISCORD-PB-ONGAME#readme"
+}
